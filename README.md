@@ -4,6 +4,7 @@
 - 💬 Ask me about develop
 - 📫 How to reach me: nigalval@gmail.com
 - 💼 Look my LinkedIn: https://www.linkedin.com/in/nicogg
+- 👀 Look my GitLab: https://gitlab.com/nicoGG
 - 👓 Current Stack:
   - Angular 13
   - AplloServer/ApolloClient/ApolloStudio
