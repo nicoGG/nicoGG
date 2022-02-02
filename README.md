@@ -3,6 +3,7 @@
 - 🤔 I’m looking for help with TDD
 - 💬 Ask me about develop
 - 📫 How to reach me: nigalval@gmai.com
+- 💼 Look my linkedin: https://www.linkedin.com/in/nicol%C3%A1s-galdames-valenzuela-764b29b6/
 - 👓 Current Stack:
   - Angular 13
   - AplloServer/ApolloClient/ApolloStudio
