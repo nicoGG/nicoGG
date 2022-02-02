@@ -3,6 +3,7 @@
 - 🤔 I’m looking for help with TDD
 - 💬 Ask me about develop
 - 📫 How to reach me: nigalval@gmail.com
+- ⚖️ Check my Bitbucket: https://bitbucket.org/nico94/
 - 💼 Look my LinkedIn: https://www.linkedin.com/in/nicogg
 - 👀 Look my GitLab: https://gitlab.com/nicoGG
 - 👓 Current Stack:
