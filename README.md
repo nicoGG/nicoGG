@@ -1,4 +1,4 @@
-- 🔭 Hi!, I’m currently working on spread.cl and geekz.cl
+- 🔭 Hi!, I’m currently working on Ripleytech_
 - 👯 I’m looking to collaborate on a big team
 - 🤔 I’m looking for help with TDD
 - 💬 Ask me about develop
