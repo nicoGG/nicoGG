@@ -8,7 +8,7 @@
 - 👀 Look my GitLab: https://gitlab.com/nicoGG
 - 👓 Current Stack:
   - Angular 13
-  - AplloServer/ApolloClient/ApolloStudio
+  - ApolloServer/ApolloClient/ApolloStudio
   - NodeJS: Typescript
   - Graphql: TypeGraphQL
   - Flutter
