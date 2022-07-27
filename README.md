@@ -7,10 +7,11 @@
 - 💼 Look my LinkedIn: https://www.linkedin.com/in/nicogg
 - 👀 Look my GitLab: https://gitlab.com/nicoGG
 - 👓 Current Stack:
-  - Angular 13
+  - Flutter
+  - NestJS
+  - Angular
   - ApolloServer/ApolloClient/ApolloStudio
   - NodeJS: Typescript
-  - Graphql: TypeGraphQL
-  - Flutter
+  - GraphQL: TypeGraphQL
   - CI/CD
   - MongoDB
