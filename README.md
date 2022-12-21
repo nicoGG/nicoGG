@@ -1,6 +1,6 @@
 - 🔭 Hi!, I’m currently working on Ripleytech_
 - 👯 I’m looking to collaborate on a big team
-- 🤔 I’m looking for help with TDD
+- 🤔 I’m looking for help with NestJS
 - 💬 Ask me about develop
 - 📫 How to reach me: nigalval@gmail.com
 - ⚖️ Check my Bitbucket: https://bitbucket.org/nico94/
