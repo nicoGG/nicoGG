@@ -2,9 +2,9 @@
 👯 I’m eager to collaborate on impactful projects, especially those that push the boundaries of technology and innovation.  
 🤔 Seeking help with advanced NestJS concepts and best practices.  
 💬 Ask me about software development, my favorite technologies, and the latest trends in the tech world.  
-📫 How to reach me: Drop me an email at nigalval@gmail.com for collaboration, advice, or just to say hi!  
+💼 Look at my LinkedIn: https://www.linkedin.com/in/nicogg for collaboration, advice, or just to say hi!  
+📫 How to reach me: Drop me an email at nigalval@gmail.com  
 ⚖️ Check my Bitbucket: https://bitbucket.org/nico94/  
-💼 Look at my LinkedIn: https://www.linkedin.com/in/nicogg  
 👀 Check out my GitLab: https://gitlab.com/nicoGG  
 
 👓 Current Tech Stack:
