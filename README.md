@@ -22,7 +22,6 @@
 
 🤝 Looking Forward: I’m on the lookout for opportunities to collaborate on projects that are ambitious and challenging. I'm especially interested in AI, machine learning, and big data projects. If you're looking for someone who can bring fresh ideas and robust solutions to your team, let's connect!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
