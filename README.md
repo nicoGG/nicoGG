@@ -1,4 +1,4 @@
-🔭 Hi! Currently working at Ripleytech_, focusing on developing cutting-edge solutions.  
+🔭 Hi! Currently working at frelancer, focusing on developing cutting-edge solutions.  
 👯 I’m eager to collaborate on impactful projects, especially those that push the boundaries of technology and innovation.  
 🤔 Seeking help with advanced NestJS concepts and best practices.  
 💬 Ask me about software development, my favorite technologies, and the latest trends in the tech world.  
