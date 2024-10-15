@@ -35,13 +35,6 @@ I’m a **freelancer developer** with a passion for **cutting-edge technology** 
 
 ---
 
-### 🌟 **Featured Projects**
-
-- **💼 [Bilink](https://github.com/nicogg/bilink)**: A modern application built using **Flutter** and **NestJS**, focusing on connectivity and seamless communication.
-- **📊 [InvoiceCapture](https://github.com/nicogg/invoicecapture)**: A project utilizing **GraphQL** and **Apollo** to capture and manage invoices efficiently.
-
----
-
 ### 📈 **GitHub Stats**
 
 <p align="center">
